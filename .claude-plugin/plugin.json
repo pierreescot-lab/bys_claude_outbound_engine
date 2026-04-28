@@ -5,10 +5,5 @@
     "name": "BuildYourSales",
     "url": "https://buildyoursales.tech"
   },
-  "skills": [
-    "skills/setup",
-    "skills/strategy",
-    "skills/campaign",
-    "skills/monitor"
-  ]
+  "skills": "./skills/"
 }
